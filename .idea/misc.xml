@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3148148148148148" />
+        <entry key="app/src/main/res/drawable/ic_bicycle.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3148148148148148" />
+        <entry key="app/src/main/res/layout/activity_add_vehicle.xml" value="0.15526849037487336" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16210739614994935" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_vehicle_profile.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.55" />
+        <entry key="app/src/main/res/layout/fragment_add_vehicle.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_user_profile.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_user_vehicles.xml" value="0.16210739614994935" />
+        <entry key="app/src/main/res/layout/fragment_vehicles_info.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/user_vehicles_view.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/vehicles_view.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/activity_user_drawer.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/app" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
